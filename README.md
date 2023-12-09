@@ -4,13 +4,15 @@
 
 
 
-**enayetsyl/enayetsyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
-- 🔭 I’m currently working on ... Looking for job
-- 🌱 I’m currently learning ... Material UI and Next js
-- 📫 How to reach me: ... enayetflweb@gmail.com
+
+- 🔭 I’m currently Looking for job
+- 🌱 I’m currently learning Material UI and Next js
+- 📫 How to reach me: ... please email me at enayetflweb@gmail.com
+
+
 
 
 <p align="center">
@@ -19,9 +21,16 @@
   </a>
 </p>
 
+
+### My statistics
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enayetsyl&theme=transparent)
 
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enayetsyl&theme=transparent)
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enayetsyl&theme=transparent&utcOffset=8)
 
