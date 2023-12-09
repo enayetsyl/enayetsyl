@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!["Md Enayetur Rahman](/assets/banner.git "Md Enayetur Rahman")
+!["Md Enayetur Rahman](https://github.com/enayetsyl/enayetsyl/blob/main/assets/banner.gif)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enayetsyl&theme=transparent)
 
