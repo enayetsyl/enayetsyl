@@ -9,8 +9,8 @@
 
 
 - 🔭 I’m currently Looking for job
-- 🌱 I’m currently learning Material UI and Next js
-- 📫 How to reach me: ... please email me at enayetflweb@gmail.com
+- 🌱 I’m currently learning GraphQL, Typescript, Docker and Next js
+- 📫 How to reach me: ... please email me at enayetflweb@gmail.com or whatsapp me @ 008801730197620
 
 
 
