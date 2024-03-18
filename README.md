@@ -2,18 +2,13 @@
 
 !["Md Enayetur Rahman](https://github.com/enayetsyl/enayetsyl/blob/main/assets/banner.gif)
 
-
-
-
-
-
+<br/>
 
 - 🔭 I’m currently Looking for job
 - 🌱 I’m currently learning Material UI and Next js
 - 📫 How to reach me: ... please email me at enayetflweb@gmail.com
-
-
-
+<br/>
+<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,6 +18,7 @@
 
 
 ### My statistics
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enayetsyl&theme=transparent)
 
