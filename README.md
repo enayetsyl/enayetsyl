@@ -4,8 +4,8 @@
 
 <br/>
 
-- 🔭 I’m currently Looking for job
-- 🌱 I’m currently learning GraphQL, Typescript, Docker and Next js.
+- 🔭 I’m currently working in 365 AITech as a Full Stack Developer. 
+- 🌱 I’m currently learning Postgres, DSA and Docker.
 - 📫 How to reach me: ... please email me at enayetflweb@gmail.com or whatsapp me @ 008801730197620
 - 👨‍💻 All of my projects are available at [https://md-enayetur-rahman-portfolio.vercel.app/](https://md-enayetur-rahman-portfolio.vercel.app/)
 
