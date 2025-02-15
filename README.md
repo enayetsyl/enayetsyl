@@ -7,11 +7,8 @@
 - 🔭 I’m currently working in 365 AITech as a Full Stack Developer. 
 - 🌱 I’m currently learning Postgres, DSA and Docker.
 - 📫 How to reach me: ... please email me at enayetflweb@gmail.com or whatsapp me @ 008801730197620
-- 👨‍💻 All of my projects are available at [https://md-enayetur-rahman-portfolio.vercel.app/](https://md-enayetur-rahman-portfolio.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@enayetflweb](https://medium.com/@enayetflweb), [https://dev.to/md_enayeturrahman_2560e3](https://dev.to/md_enayeturrahman_2560e3)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aDBLHx2HCm-IcetsjV8XH1h1S5TQMYmV/view?usp=sharing](https://drive.google.com/file/d/1aDBLHx2HCm-IcetsjV8XH1h1S5TQMYmV/view?usp=sharing)
-
+- 👨‍💻 All of my projects are available at [Portfolio](https://md-enayetur-rahman-portfolio.vercel.app/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@enayetflweb), [dev.to](https://dev.to/md_enayeturrahman_2560e3)
 - I also do problem solving if in the following platform [Leetcode](https://leetcode.com/u/XTl7hvNPIc/), [HackerRank](https://www.hackerrank.com/profile/enayetflweb), [Coderforces](https://codeforces.com/profile/enayetsyl)
 
 
